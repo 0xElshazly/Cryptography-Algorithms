@@ -6,7 +6,7 @@
 <hr>
 ## Encryption Algorithms
 "Cryptography is broadly classified into two categories: Symmetric key Cryptography and Asymmetric key Cryptography (popularly known as public key cryptography)."
-![image](https://user-images.githubusercontent.com/77213993/169733156-b162b494-879d-4c1b-a272-054db492a205.png)
+<p>![image](https://user-images.githubusercontent.com/77213993/169733156-b162b494-879d-4c1b-a272-054db492a205.png)
 <hr>
 ## Symmetric Key Cryptography
 "An encryption system in which the sender and receiver of a message share a single, common key that is used to encrypt and decrypt the message. The most popular symmetric–key system is the Data Encryption Standard (DES)"
