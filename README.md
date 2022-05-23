@@ -14,7 +14,7 @@
 <hr>
 ## Substitution Cipher
 "Method of encryption by which units of plaintext are replaced with ciphertext, according to a fixed system; the “units” may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth"
-![image](https://user-images.githubusercontent.com/77213993/169733383-f09f6655-e2cb-4941-b7e3-ab57cf350e2a.png)
+<img src="https://user-images.githubusercontent.com/77213993/169733383-f09f6655-e2cb-4941-b7e3-ab57cf350e2a.png"/>
 <hr>
 ## Stream Cipher
 "Symmetric or secret-key encryption algorithm that encrypts a single bit at a time. With a Stream Cipher, the same plaintext bit or byte will encrypt to a different bit or byte every time it is encrypted."
