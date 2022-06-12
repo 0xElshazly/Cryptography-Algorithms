@@ -47,4 +47,4 @@
   </ul>
 <img src='https://user-images.githubusercontent.com/77213993/169733581-26391991-8c70-43af-86d2-5714faff8274.png'>
 <hr>
-<p align="center">Thanks</p>
+<p align="center">Thank You</p>
